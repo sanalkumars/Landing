@@ -13,9 +13,9 @@ const HeroSection = () => {
         <p className='mt-10 text-lg text-center text-neutral-500 max-w-4xl'>
             A simple but attractive landing page created using REACT and styled using tailwindcss.Learn code and improve by each day.Happy coding. 
         </p>
-        <div className="flex justify-center my-10">
-            <a href="#" className='py-4 px-2 mx-3 rounded-md bg-gradient-to-r from-orange-500 to-purple-950'>Get Started Now</a>
-            <a href="#" className='py-4 px-2 mx-3 rounded-md border' >Read Documentation</a>
+        <div className="flex justify-center my-10 ">
+            <a href="#" className='py-4 px-2 mx-3 rounded-md bg-gradient-to-r from-orange-500 to-purple-950'>Start Now</a>
+            <a href="#" className='py-4 px-2 mx-3 rounded-md border' > Documentation</a>
         </div>
 
         <div className="flex justify-center mt-10">
