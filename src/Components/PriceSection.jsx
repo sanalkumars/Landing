@@ -33,7 +33,7 @@ const PriceSection = () => {
                                         }
                                     </ul>
                                         <a href="#" className="inline-flex justify-center w-full h-12 p-5 tracking-tight 
-                                        items-center text-center mt-20 text-xl hover:bg-gradient-to-r from-orange-600 to-red-700  border border-orange-900 rounded-lg transition duration-300">
+                                        items-center text-center mt-20 text-xl  hover:bg-gradient-to-r from-orange-600 to-red-700  border border-orange-900 rounded-lg transition duration-300">
                                             Subscribe
                                         </a>
                                 </div>
